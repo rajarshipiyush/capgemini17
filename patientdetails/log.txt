@@ -1,0 +1,3 @@
+INFO - obtain Connection
+INFO - obtain Connection
+INFO - inserted record patientPatientBean [pId=0, pName=Raj, address=Ajkdjfnl, mobile=7894561230]
